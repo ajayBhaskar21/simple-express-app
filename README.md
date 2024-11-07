@@ -1,1 +1,4 @@
-"# simple-express-app" 
+step 1: 
+npm install
+step 2:
+npm run dev or node index.js
